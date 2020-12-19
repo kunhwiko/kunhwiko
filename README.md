@@ -11,13 +11,13 @@ Here on my GitHub page, you can see me share not only what I know about designin
 
 Always looking to connect with others! 
 
-<p><a href="https://www.linkedin.com/in/kunhwiko">
-<img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+<p align="left">
+<a href="https://www.linkedin.com/in/kunhwiko">
+<img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
+<a href="https://www.kunhwiko.com">
+<img src="https://www.flaticon.com/svg/static/icons/svg/3932/3932090.svg" alt="Personal" width="50" height="50">
 </a></p>
 
-<p><a href="https://www.kunhwiko.com">
-<img src="https://www.flaticon.com/svg/static/icons/svg/3932/3932090.svg" alt="Personal" width="30" height="30">
-</a></p>
 
 
 ### Repositories :octocat:
@@ -26,10 +26,8 @@ Always looking to connect with others!
 On a daily basis, I like to use :
 
 <p align="left">
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/14_google-cloud-bigtable.f1bb7e31a9.svg" alt="bigtable" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.6445c674ea.svg" alt="bigquery" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
 </p>
-
-
 
 Other tech stacks you might find on this page are : 
 
