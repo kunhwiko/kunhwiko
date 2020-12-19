@@ -12,7 +12,11 @@ Here on my GitHub page, you can see me share not only what I know about designin
 Always looking to connect with others! 
 
 <p><a href="https://www.linkedin.com/in/kunhwiko">
-<img src="https://github.com/kunhwiko/homepage/blob/master/Images/linkedin.png?raw=true" alt="LinkedIn" width="30" height="30">
+<img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a></p>
+
+<p><a href="https://www.kunhwiko.com">
+<img src="https://www.flaticon.com/svg/static/icons/svg/3932/3932090.svg" alt="Personal" width="30" height="30">
 </a></p>
 
 
