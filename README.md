@@ -7,7 +7,7 @@ As an engineer, I personally have a lot of interest in scalability, failure hand
 
 I organized my GitHub to openly share topics in systems design and various algorithms. I also talk about different programming languages and fundamentals in computer science. You can also, of course, view some of my personal projects that I did in the past.
 
-
+<br />
 
 ### Connect 🔌
 -----
@@ -21,7 +21,7 @@ Always looking to connect with others!
 <img src="https://www.flaticon.com/svg/static/icons/svg/3932/3932090.svg" alt="Personal" width="50" height="50">
 </a></p>
 
-
+<br />
 
 ### Repositories :octocat:
 -----
