@@ -1,9 +1,13 @@
 ### Hi there 👋
 -----
 
-I am an incoming software engineer who will be joining the infrastructure team. I personally have a lot of interest in thinking about scalability, failure handling, concurrency, and API design.  
+I am an incoming software engineer at Moloco who will be joining their infrastructure team. My work will contribute to building scalable servers and APIs that empower mobile app businesses through our cloud and deep learning applications.
 
-Here on my GitHub page, you can see me share not only what I know about designing large scale systems, but also various programming languages, operating systems, and algorithms. You can also, of course, view some of my personal projects that I did in the past. Feel free to browse around!  
+As an engineer, I personally have a lot of interest in scalability, failure handling, concurrency, and API design. 
+
+I organized my GitHub to openly share topics in systems design and various algorithms. I also talk about different programming languages and fundamentals in computer science. You can also, of course, view some of my personal projects that I did in the past.
+
+Feel free to browse around! Enjoy. 
 
 
 ### Connect 🔌
@@ -23,13 +27,13 @@ Always looking to connect with others!
 ### Repositories :octocat:
 -----
 
-On a daily basis, I like to use :
+On a daily basis, I use :
 
 <p align="left">
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/14_google-cloud-bigtable.f1bb7e31a9.svg" alt="bigtable" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.6445c674ea.svg" alt="bigquery" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
 </p>
 
-Other tech stacks you might find on this page are : 
+Other tech stacks on this page are : 
 
 <p align="left">
 <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png?raw=true" alt="c" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png?raw=true" alt="cpp" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
