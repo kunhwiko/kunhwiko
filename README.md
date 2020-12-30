@@ -7,7 +7,6 @@ As an engineer, I personally have a lot of interest in scalability, failure hand
 
 I organized my GitHub to openly share topics in systems design and various algorithms. I also talk about different programming languages and fundamentals in computer science. You can also, of course, view some of my personal projects that I did in the past.
 
-Feel free to browse around! Enjoy. 
 
 
 ### Connect 🔌
