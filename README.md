@@ -16,7 +16,7 @@ Always looking to connect with others!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kunhwiko">
-<img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
 <a href="https://www.kunhwiko.com">
 <img src="https://www.flaticon.com/svg/static/icons/svg/3932/3932090.svg" alt="Personal" width="50" height="50">
 </a></p>
@@ -29,15 +29,15 @@ Always looking to connect with others!
 On a daily basis, I use :
 
 <p align="left">
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/14_google-cloud-bigtable.f1bb7e31a9.svg" alt="bigtable" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.6445c674ea.svg" alt="bigquery" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/14_google-cloud-bigtable.f1bb7e31a9.svg" alt="bigtable" width="50" height="50"/><img src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.6445c674ea.svg" alt="bigquery" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
 </p>
 
 Other tech stacks on this page are : 
 
 <p align="left">
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png?raw=true" alt="c" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png?raw=true" alt="cpp" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50""/> 
-  <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png?raw=true" alt="c" width="50" height="50"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png?raw=true" alt="cpp" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50""/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
 </p>
 
 
