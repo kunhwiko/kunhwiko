@@ -1,8 +1,6 @@
 ### Hi there 👋
 -----
 
-I am an incoming software engineer at C3.ai who will be joining their cloud security and infrastructure team. As an engineer, I personally have a lot of interest in scalability, failure handling, cloud technologies, and network security. 
-
 I organized my GitHub to openly share topics in systems design and various algorithms. I also talk about different programming languages and fundamentals in computer science. You can also, of course, view some of my personal projects that I did in the past.
 
 <br />
