@@ -1,9 +1,9 @@
 ### Hi there 👋
 -----
 
-I'm Kun Hwi, and I am an incoming software engineer at C3.ai. I'll be on the cloud infrastructure team, working to create a scalable and fault tolerant platform to support applications for energy management, fraud detection, early disease detection, and predictive maintenance. 
+I'm Kun Hwi, and I am a software engineer at C3.ai on the Cloud Infrastructure Team. I'm working to create a scalable platform that provides businesses and data scientists with a low-code solution so they can think more about energy management, fraud detection, health monitoring, and predictive maintenance. 
 
-I personally have a lot of interest in software infrastructures, cloud services, and security. Here on my GitHub, I openly share topics in systems design, various algorithms, and fundamentals in computer science. You can also view some of my personal projects I've done in the past.    
+I personally have a lot of interest in distributed systems and cloud services. Here on my GitHub, I openly share topics in systems design, various algorithms, and fundamentals in computer science. You can also view some of my personal projects I've done in the past.    
 
 
 <br />
