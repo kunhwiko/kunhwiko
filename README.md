@@ -1,9 +1,9 @@
 ### Hi there 👋
 -----
 
-I'm Kun Hwi, and I am a software engineer at C3.ai on the Cloud Infrastructure Team. I'm working to create a scalable platform that provides businesses and data scientists with a low-code solution so they can think more about energy management, fraud detection, health monitoring, and predictive maintenance. 
+I'm Kun Hwi, and I am a software engineer at C3.ai on the Cloud Infra Team. I'm working to build a scalable platform for our product to help businesses abstract away code and think more about energy management, health monitoring, and predictive maintenance. 
 
-I personally have a lot of interest in distributed systems and cloud services. Here on my GitHub, I openly share topics in systems design, various algorithms, and fundamentals in computer science. You can also view some of my personal projects I've done in the past.    
+Here on my GitHub, I openly share what I know about systems design, distributed systems, and modern cloud tools. Feel free to also view some of my cool past projects :)   
 
 
 <br />
@@ -11,7 +11,7 @@ I personally have a lot of interest in distributed systems and cloud services. H
 ### Connect 🔌
 -----
 
-Always looking to connect with others! 
+Always looking forward to connecting with others! 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kunhwiko">
