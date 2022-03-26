@@ -1,9 +1,9 @@
 ### Hi there 👋
 -----
 
-I'm Kun Hwi, and I am a software engineer at C3.ai on the Cloud Infrastructure Team. I'm working to build a platform that helps data scientists abstract away scalability, networking, and data persistence so they can think more about crucial matters such as energy management, health monitoring, and predictive maintenance. 
+I'm Kun Hwi, and I am a software engineer at C3 AI. Currently on the Cloud team, I'm actively working to build an infrastructure that helps businesses abstract away scalability, networking, and security so they can focus on crucial data science projects in energy management, health monitoring, and predictive maintenance. 
 
-Here on my GitHub, I openly share what I know about systems design, distributed systems, and modern cloud tools. Feel free to also view some of my cool past projects :)   
+Here on my GitHub, I openly share what I know about distributed systems and modern cloud tools. Feel free to also view some of my past projects :)   
 
 <br />
 
@@ -23,17 +23,12 @@ Always looking forward to connecting with others!
 
 ### Repositories :octocat:
 -----
-I work extensively with these quite literally on a daily basis:
+I work with these every day!
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" "width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/558px-Cassandra_logo.svg.png" alt="cassandra" width="60" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" "width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" "width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" "width="50" height="50"/>
 </p>
 
-I work with various cloud providers: 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" "width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" "width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" alt="open" width="50" height="50"/>
-</p>
-
-I like to dab into web dev projects in my free time using: 
+Outside of infra, I do web dev as a hobby: 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 </p>
