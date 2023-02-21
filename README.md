@@ -27,7 +27,8 @@ These are some of the tools I work with on a daily basis.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="50" height="50"/>          
-</p>
+</p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
+          
 
 I also have extensive professional experience with the following tools.
 
