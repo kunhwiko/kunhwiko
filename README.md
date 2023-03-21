@@ -1,7 +1,7 @@
 ### Hi there 👋
 -----
 
-I'm Kun Hwi, and I am a software engineer at C3 AI on the Cloud Infrastructure team. I am particularly fond of computer networking and modern cloud technologies and am always striving to learn something new every day.  
+I'm Kun Hwi, and I am a software engineer at Workday on the Cloud Infrastructure team. I am particularly fond of computer networking and modern cloud technologies and am always striving to learn something new every day.  
 
 Here on my GitHub, I openly share what I know about distributed systems and modern cloud tools. Feel free to also view some of my past projects :)   
 
