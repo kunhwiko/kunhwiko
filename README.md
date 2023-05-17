@@ -28,17 +28,19 @@ These are some of the tools I work with on a daily basis.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
+<img src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" alt="helm" width="50" height="50"/>   
+<img src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" alt="opa" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" "width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>                                                                                                                                     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>                                                                                                                                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
                                                                                                                       
 I work closely with these CI/CD tools.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
-<img src="https://docs.prow.k8s.io/images/logo_horizontal_solid.png" alt="prow" width="50" height="50"/>
+<img src="https://docs.prow.k8s.io/images/logo_horizontal_solid.png" alt="prow" width="70" height="50"/>
+<img src="https://1.cms.s81c.com/sites/default/files/2020-04-01/47602533_1.png" alt="tekton" width="70" height="50"/>                                                                                                      
 <img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>                                                                                                       
 </p>                                                                                                                      
 
