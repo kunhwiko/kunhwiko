@@ -33,7 +33,14 @@ These are some of the tools I work with on a daily basis.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>                                                                                                                                     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
-</p>       
+</p>
+                                                                                                                      
+I work closely with these CI/CD tools.
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
+<img src="https://docs.prow.k8s.io/images/logo_horizontal_solid.png" alt="prow" width="50" height="50"/>
+<img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>                                                                                                       
+</p>                                                                                                                      
 
 I also have extensive professional experience with the following tools.
 
