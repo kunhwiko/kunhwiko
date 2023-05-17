@@ -39,7 +39,7 @@ I work closely with these CNCF projects and CI/CD tools.
 <img src="https://landscape.cncf.io/logos/helm.svg" alt="helm" width="50" height="50"/>   
 <img src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" alt="opa" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="opa" width="50" height="50"/>                                                                                                                               
+<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>                                                                                                                               
 <img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>                                                                                                       
 </p>                                                                                                                      
 
