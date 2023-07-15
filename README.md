@@ -39,16 +39,16 @@ I work closely with these CNCF projects and CI/CD tools.
 <img src="https://landscape.cncf.io/logos/helm.svg" alt="helm" width="50" height="50"/>   
 <img src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" alt="opa" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>                                                                                                                               
-<img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>                                                                                                       
+<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>  
+<img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/>    
 </p>                                                                                                                      
 
 I also have extensive professional experience with the following tools.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" "width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/>          
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" "width="50" height="50"/>
 </p>
