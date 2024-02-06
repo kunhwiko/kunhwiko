@@ -37,17 +37,22 @@ These are the tools I work with on a daily basis.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>                                                                                                                                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
-                                                                                                                      
-I work closely with these CNCF projects and CI/CD tools.
-<p align="left">
+
+My work involves actively interacting with these CNCF projects.
+
 <img src="https://github.com/cncf/artwork/blob/main/projects/helm/icon/color/helm-icon-color.svg" alt="helm" width="50" height="50"/>
+<img src="https://github.com/cncf/artwork/blob/main/projects/cert-manager/icon/color/cert-manager-icon-color.svg" alt="cert-manager" width="50" height="50"/>
 <img src="https://github.com/cncf/artwork/blob/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/> 
+
+These are the CI/CD tools I'm currently using.
+
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="50" height="50" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
 <img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>  
-<img src="https://github.com/cncf/artwork/blob/main/projects/flux/icon/color/flux-icon-color.svg" alt="flux" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/>    
+<img src="https://github.com/cncf/artwork/blob/main/projects/flux/icon/color/flux-icon-color.svg" alt="flux" width="50" height="50"/> 
 </p>                                                                                                                      
 
 I also have extensive professional experience with the following tools.
