@@ -1,9 +1,13 @@
 ### Hi there 👋
 -----
 
-I'm Kun Hwi, and I am a software engineer at Workday on the Cloud Infrastructure team. I am particularly fond of computer networking and modern cloud technologies and am always striving to learn something new every day.  
+I'm Kun Hwi, and I am a software engineer at Workday! I'm currently part of the Public Cloud Platform Team, where I actively am contributing to the development of various Kubernetes operators that build the next generation of Workday's cloud platform.
 
-Here on my GitHub, I openly share what I know about distributed systems and modern cloud tools. Feel free to also view some of my past projects :)   
+Recently, I've also been working on the development of [ACK controllers](https://github.com/aws-controllers-k8s), which is an open-source project led by AWS to manage various AWS services through Kubernetes.
+
+I have a particular interest for computer networking and modern cloud technologies and am always striving to learn something new every day.
+
+Here on my GitHub, I openly share what I know about distributed systems and modern cloud tools. Feel free to also view some of my past projects :)
 
 <br />
 
@@ -36,11 +40,12 @@ These are the tools I work with on a daily basis.
                                                                                                                       
 I work closely with these CNCF projects and CI/CD tools.
 <p align="left">
-<img src="https://landscape.cncf.io/logos/helm.svg" alt="helm" width="50" height="50"/>   
-<img src="https://landscape.cncf.io/logos/open-policy-agent-opa.svg" alt="opa" width="50" height="50"/>
+<img src="https://github.com/cncf/artwork/blob/main/projects/helm/icon/color/helm-icon-color.svg" alt="helm" width="50" height="50"/>
+<img src="https://github.com/cncf/artwork/blob/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="50" height="50" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
 <img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>  
-<img src="https://landscape.cncf.io/logos/flux.svg" alt="flux" width="50" height="50"/>
+<img src="https://github.com/cncf/artwork/blob/main/projects/flux/icon/color/flux-icon-color.svg" alt="flux" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/>    
 </p>                                                                                                                      
