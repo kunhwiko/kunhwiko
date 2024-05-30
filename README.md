@@ -27,18 +27,17 @@ Always looking forward to connecting with others!
 
 ### Repositories :octocat:
 -----
-These are the tools I work with on a daily basis.
+When I wake up, these are my go-to tools I'll use for the day:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" "width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>                                                                                                                                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
 
-My work involves actively interacting with these CNCF projects.
+My work involves actively interacting with these open-source projects:
 
 <p align="left">
 <img src="https://github.com/cncf/artwork/blob/main/projects/helm/icon/color/helm-icon-color.svg" alt="helm" width="50" height="50"/>
@@ -48,16 +47,15 @@ My work involves actively interacting with these CNCF projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/> 
 </p> 
 
-These are the CI/CD tools I'm currently using.
+These are the CI/CD tools that I work with:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="50" height="50" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
 <img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" alt="tekton" width="50" height="50"/>  
-<img src="https://github.com/cncf/artwork/blob/main/projects/flux/icon/color/flux-icon-color.svg" alt="flux" width="50" height="50"/> 
 </p>                                                                                                                      
 
-I also have extensive professional experience with the following tools.
+I also have extensive professional experience with the following:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" "width="50" height="50"/>
