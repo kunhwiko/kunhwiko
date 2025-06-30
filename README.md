@@ -43,6 +43,7 @@ My work involves actively interacting with these open-source projects:
 <img src="https://github.com/cncf/artwork/blob/main/projects/helm/icon/color/helm-icon-color.svg" alt="helm" width="50" height="50"/>
 <img src="https://github.com/cncf/artwork/blob/main/projects/cert-manager/icon/color/cert-manager-icon-color.svg" alt="cert-manager" width="50" height="50"/>
 <img src="https://github.com/cncf/artwork/blob/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="50" height="50"/>
+<img src="https://github.com/cncf/artwork/blob/main/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50"/> 
 </p> 
